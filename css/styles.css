@@ -514,7 +514,7 @@ footer p {
     }
 }
 
-@media only screen and (max-width: 515px) {
+@media only screen and (max-width: 526px) {
     .background {
         top: 4rem;
     }
